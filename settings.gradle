@@ -1,0 +1,1 @@
+include ':app', ':listviewtest', ':fragmenttest', ':broadcastbestpractice', ':databasetest', ':webviewtest', ':httprequstdemo', ':coolweather'
